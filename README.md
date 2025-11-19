@@ -4,6 +4,13 @@ This project uses open-source LLMs to generate clinical notes from doctor–pati
 
 Additionally, this Python project utilizes OpenAI's Whisper speech recognition model to generate transcripts from audio or video files, and then leverages Anthropic's Sonnet LLM (Large Language Model) or OpenAI API to generate structured medical notes such as SOAP (Subjective, Objective, Assessment, Plan) or BIRP (Behavior, Intervention, Response, Plan) notes based on the transcripts.
 
+## 🌐 Live App
+
+Click here to use the app:
+
+**👉 https://clinician-ai-soap-brip-note-generation-8maqwfsjmxr42ogcq5d2fb.streamlit.app**
+
+
 ## Features
 
 - Generate clinical notes from doctor-patient dialogues using open-source LLMs (MedAlpaca, Mistral)
