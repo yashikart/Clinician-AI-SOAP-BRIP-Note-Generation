@@ -1,4 +1,4 @@
-# Clinician-AI-SOAP-Brief-Note-Generation
+# Clinician-AI-SOAP-BRIP-Note-Generation
 
 This project uses open-source LLMs to generate clinical notes from doctor–patient conversations. It includes note generation using models like MedAlpaca, evaluation with BLEU, ROUGE, and BERTScore, and analysis to improve accuracy and faithfulness.
 
@@ -27,8 +27,8 @@ Additionally, this Python project utilizes OpenAI's Whisper speech recognition m
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yashikart/Clinician-AI-SOAP-Brief-Note-Generation.git
-cd Clinician-AI-SOAP-Brief-Note-Generation
+git clone https://github.com/yashikart/Clinician-AI-SOAP-BRIP-Note-Generation.git
+cd Clinician-AI-SOAP-BRIP-Note-Generation
 ```
 
 2. Install the required Python libraries:
