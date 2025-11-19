@@ -1,0 +1,9 @@
+transformers
+torch
+accelerate
+boto3
+soundfile
+librosa
+openai
+streamlit
+

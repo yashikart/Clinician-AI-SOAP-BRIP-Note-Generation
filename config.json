@@ -1,0 +1,7 @@
+{
+  "region": "us-east-1",
+  "model_choice": "openai/whisper-small",
+  "llm_provider": "openai",
+  "local_model": "gpt2"
+}
+

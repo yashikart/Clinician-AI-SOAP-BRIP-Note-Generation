@@ -1,0 +1,35 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info
+dist/
+build/
+.env
+.venv
+venv/
+*.log
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Generated transcript files
+transcript_*.txt
+SOAP_*.txt
+BIRP_*.txt
+
+# Test audio files (too large for git)
+test/*.wav
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Streamlit
+.streamlit/
+
